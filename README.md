@@ -1,7 +1,7 @@
 # 📝 Django Weblog (zana blog)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-4.x-darkgreen?style=for-the-badge&logo=django)
+![Django](https://img.shields.io/badge/Django-6.x-darkgreen?style=for-the-badge&logo=django)
 ![Frontend](https://img.shields.io/badge/UI-AI_Assisted-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
